@@ -12,6 +12,7 @@
 
 .container{
   max-width: fit-content;
+  margin-top: 6rem;
 }
 
 .btn-no-hover:hover{
